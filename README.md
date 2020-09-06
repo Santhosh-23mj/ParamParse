@@ -5,6 +5,8 @@ A python script that opens the output of ParamSpider and prints out the paramete
 ```
 Usage:
 python3 paramparse.py -f /paramspideroutput.txt
+python3 paramparse.py -f /paramspideroutput.txt -s
+
 ```
 Output:
 ```
